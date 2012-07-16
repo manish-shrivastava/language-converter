@@ -1,15 +1,15 @@
-=language-converter
+= language-converter
 
 A Perfect Free language converter gem.
 
     gem install language-converter
     
 
-==  DESCRIPTION:
+===  DESCRIPTION:
 
 Free Language converter that convert word or text from one language to another.
 
-== Dependencies:
+=== Dependencies:
 
 * ruby 1.8.7, 1.9.2, or 1.9.3
 
