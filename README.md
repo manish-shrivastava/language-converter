@@ -1,25 +1,29 @@
-= language-converter
+Language-converter
+===================
 
 A Perfect Free language converter gem.
 
     gem install language-converter
     
 
-===  DESCRIPTION:
-
+Description :
+============
 Free Language converter that convert word or text from one language to another.
 
-=== Dependencies:
+Dependencies :
+============
 
 * ruby 1.8.7, 1.9.2, or 1.9.3
 
-== INSTALLATION :
+Installation :
+=============
 
 You can do language conversion of word or text from one language to another language very easily.
 
     gem install language-converter
 
-== Example
+Example :
+==========
 
 Suppose, If you want to convert from `english` to `spanish`:
 
@@ -28,17 +32,21 @@ Suppose, If you want to convert from `english` to `spanish`:
 
 This will convert text "Welcome" (english word) to "Bienvenida" (spanish).
 
-== How to Use:
+How to Use:
+============
 
     lc( '<WORD/TEXT NEED TO BE TRANSLATED>', '<CONVERT_TO>','<CONVERT_FROM>')
 
 
+---------------------------------------------------------------------------------------------------
 
 * <tt>WORD/TEXT NEED TO BE TRANSLATED </tt>: Text word which you want to translate.
 
 * <tt>CONVERT_TO</tt> : Language Code to which you want to convert.
 
 * <tt>CONVERT_FROM</tt> : Language Code of text/word passed in first parameter (if not english).If you will not set `CONVERT_FROM` It will suppose you are converting from english to `CONVERT_TO` Language Code.
+
+---------------------------------------------------------------------------------------------------
 
 
 Put Language Code `af-ZA` for Afrikaans
