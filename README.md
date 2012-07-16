@@ -3,32 +3,33 @@ language-converter
 
 A Perfect Free language converter gem.
 
-== DESCRIPTION
+
+== DESCRIPTION:
 
 Free Language converter that convert word or text from one language to another.
 
-== Dependencies
+== Dependencies:
 
 * ruby 1.8.7, 1.9.2, or 1.9.3
 
-== Installation
+== Installation:
 
 You can do language conversion of word or text from one language to another language very easily.
 
-  gem install language-converter
+    gem install language-converter
 
 == Example
 
 Suppose, If you want to convert from `english` to `spanish`:
 
-  require 'language_converter'
-  lc 'welcome', 'es','en'
+    require 'language_converter'
+    lc 'welcome', 'es','en'
 
 This will convert text "Welcome" (english word) to "Bienvenida" (spanish).
 
-== How to Use
+== How to Use:
 
-  lc( '<WORD/TEXT NEED TO BE TRANSLATED>', '<CONVERT_TO>','<CONVERT_FROM>')
+    lc( '<WORD/TEXT NEED TO BE TRANSLATED>', '<CONVERT_TO>','<CONVERT_FROM>')
 
 
 
