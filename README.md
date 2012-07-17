@@ -8,7 +8,8 @@ A Perfect Free language converter gem.
 
 Description :
 ============
-Free Language converter that convert word or text from one language to another.
+Free Language converter that convert word or text from one language to another. 
+You can also check https://rubygems.org/gems/language-converter to download original source and other versions as well
 
 Dependencies :
 ============
