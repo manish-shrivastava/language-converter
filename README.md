@@ -376,8 +376,7 @@ Ruby, my favorite language!
 Acknowledgments :
 ================
 
-Thank you to CIS for starting the Ruby version.  Thanks to everyone
-who's helped out in various ways.  Finally, thank you to the people using this
+Thanks to everyone who's helped out in various ways.  Finally, thank you to the people using this
 library!
 
 License :
